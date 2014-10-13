@@ -1,0 +1,15 @@
+C:\Users\Vincent\Coding\Twenny Wun Bot\Twenny Wun Bot\bin\Debug\Twenny Wun Bot.exe.config
+C:\Users\Vincent\Coding\Twenny Wun Bot\Twenny Wun Bot\bin\Debug\Twenny Wun Bot.exe
+C:\Users\Vincent\Coding\Twenny Wun Bot\Twenny Wun Bot\bin\Debug\Twenny Wun Bot.pdb
+C:\Users\Vincent\Coding\Twenny Wun Bot\Twenny Wun Bot\bin\Debug\Tweetinvi.Controllers.dll
+C:\Users\Vincent\Coding\Twenny Wun Bot\Twenny Wun Bot\bin\Debug\Tweetinvi.Core.dll
+C:\Users\Vincent\Coding\Twenny Wun Bot\Twenny Wun Bot\bin\Debug\Tweetinvi.Credentials.dll
+C:\Users\Vincent\Coding\Twenny Wun Bot\Twenny Wun Bot\bin\Debug\Tweetinvi.dll
+C:\Users\Vincent\Coding\Twenny Wun Bot\Twenny Wun Bot\bin\Debug\Tweetinvi.Factories.dll
+C:\Users\Vincent\Coding\Twenny Wun Bot\Twenny Wun Bot\bin\Debug\Tweetinvi.Logic.dll
+C:\Users\Vincent\Coding\Twenny Wun Bot\Twenny Wun Bot\bin\Debug\Tweetinvi.Security.dll
+C:\Users\Vincent\Coding\Twenny Wun Bot\Twenny Wun Bot\bin\Debug\Tweetinvi.Streams.dll
+C:\Users\Vincent\Coding\Twenny Wun Bot\Twenny Wun Bot\bin\Debug\Tweetinvi.WebLogic.dll
+C:\Users\Vincent\Coding\Twenny Wun Bot\Twenny Wun Bot\obj\Debug\Twenny Wun Bot.csprojResolveAssemblyReference.cache
+C:\Users\Vincent\Coding\Twenny Wun Bot\Twenny Wun Bot\obj\Debug\Twenny Wun Bot.exe
+C:\Users\Vincent\Coding\Twenny Wun Bot\Twenny Wun Bot\obj\Debug\Twenny Wun Bot.pdb
