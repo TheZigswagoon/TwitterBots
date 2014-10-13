@@ -1,0 +1,20 @@
+C:\Users\Vincent\Coding\WOMBO COMBO BOT\WOMBO COMBO BOT\bin\Release\WOMBO COMBO BOT.exe.config
+C:\Users\Vincent\Coding\WOMBO COMBO BOT\WOMBO COMBO BOT\bin\Release\WOMBO COMBO BOT.exe
+C:\Users\Vincent\Coding\WOMBO COMBO BOT\WOMBO COMBO BOT\bin\Release\WOMBO COMBO BOT.pdb
+C:\Users\Vincent\Coding\WOMBO COMBO BOT\WOMBO COMBO BOT\bin\Release\Autofac.dll
+C:\Users\Vincent\Coding\WOMBO COMBO BOT\WOMBO COMBO BOT\bin\Release\Microsoft.Threading.Tasks.dll
+C:\Users\Vincent\Coding\WOMBO COMBO BOT\WOMBO COMBO BOT\bin\Release\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Vincent\Coding\WOMBO COMBO BOT\WOMBO COMBO BOT\bin\Release\Newtonsoft.Json.dll
+C:\Users\Vincent\Coding\WOMBO COMBO BOT\WOMBO COMBO BOT\bin\Release\PCLWebUtility.dll
+C:\Users\Vincent\Coding\WOMBO COMBO BOT\WOMBO COMBO BOT\bin\Release\Tweetinvi.Controllers.dll
+C:\Users\Vincent\Coding\WOMBO COMBO BOT\WOMBO COMBO BOT\bin\Release\Tweetinvi.Core.dll
+C:\Users\Vincent\Coding\WOMBO COMBO BOT\WOMBO COMBO BOT\bin\Release\Tweetinvi.Credentials.dll
+C:\Users\Vincent\Coding\WOMBO COMBO BOT\WOMBO COMBO BOT\bin\Release\Tweetinvi.dll
+C:\Users\Vincent\Coding\WOMBO COMBO BOT\WOMBO COMBO BOT\bin\Release\Tweetinvi.Factories.dll
+C:\Users\Vincent\Coding\WOMBO COMBO BOT\WOMBO COMBO BOT\bin\Release\Tweetinvi.Logic.dll
+C:\Users\Vincent\Coding\WOMBO COMBO BOT\WOMBO COMBO BOT\bin\Release\Tweetinvi.Security.dll
+C:\Users\Vincent\Coding\WOMBO COMBO BOT\WOMBO COMBO BOT\bin\Release\Tweetinvi.Streams.dll
+C:\Users\Vincent\Coding\WOMBO COMBO BOT\WOMBO COMBO BOT\bin\Release\Tweetinvi.WebLogic.dll
+C:\Users\Vincent\Coding\WOMBO COMBO BOT\WOMBO COMBO BOT\obj\Release\WOMBO COMBO BOT.exe
+C:\Users\Vincent\Coding\WOMBO COMBO BOT\WOMBO COMBO BOT\obj\Release\WOMBO COMBO BOT.pdb
+C:\Users\Vincent\Coding\WOMBO COMBO BOT\WOMBO COMBO BOT\obj\Release\WOMBO COMBO BOT.csprojResolveAssemblyReference.cache

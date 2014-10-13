@@ -1,0 +1,6 @@
+C:\Users\vincent\Desktop\Anaconda Every Word Console\Anaconda Every Word Console\bin\Release\Anaconda Every Word Console.exe.config
+C:\Users\vincent\Desktop\Anaconda Every Word Console\Anaconda Every Word Console\bin\Release\Anaconda Every Word Console.exe
+C:\Users\vincent\Desktop\Anaconda Every Word Console\Anaconda Every Word Console\bin\Release\Anaconda Every Word Console.pdb
+C:\Users\vincent\Desktop\Anaconda Every Word Console\Anaconda Every Word Console\obj\Release\Anaconda Every Word Console.csprojResolveAssemblyReference.cache
+C:\Users\vincent\Desktop\Anaconda Every Word Console\Anaconda Every Word Console\obj\Release\Anaconda Every Word Console.exe
+C:\Users\vincent\Desktop\Anaconda Every Word Console\Anaconda Every Word Console\obj\Release\Anaconda Every Word Console.pdb

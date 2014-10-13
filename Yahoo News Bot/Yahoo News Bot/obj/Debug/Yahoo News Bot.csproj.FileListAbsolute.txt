@@ -1,0 +1,20 @@
+C:\Users\Vincent\Coding\Yahoo News Bot\Yahoo News Bot\bin\Debug\Yahoo News Bot.exe.config
+C:\Users\Vincent\Coding\Yahoo News Bot\Yahoo News Bot\bin\Debug\Yahoo News Bot.exe
+C:\Users\Vincent\Coding\Yahoo News Bot\Yahoo News Bot\bin\Debug\Yahoo News Bot.pdb
+C:\Users\Vincent\Coding\Yahoo News Bot\Yahoo News Bot\bin\Debug\Autofac.dll
+C:\Users\Vincent\Coding\Yahoo News Bot\Yahoo News Bot\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\Vincent\Coding\Yahoo News Bot\Yahoo News Bot\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Vincent\Coding\Yahoo News Bot\Yahoo News Bot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Vincent\Coding\Yahoo News Bot\Yahoo News Bot\bin\Debug\PCLWebUtility.dll
+C:\Users\Vincent\Coding\Yahoo News Bot\Yahoo News Bot\bin\Debug\Tweetinvi.Controllers.dll
+C:\Users\Vincent\Coding\Yahoo News Bot\Yahoo News Bot\bin\Debug\Tweetinvi.Core.dll
+C:\Users\Vincent\Coding\Yahoo News Bot\Yahoo News Bot\bin\Debug\Tweetinvi.Credentials.dll
+C:\Users\Vincent\Coding\Yahoo News Bot\Yahoo News Bot\bin\Debug\Tweetinvi.dll
+C:\Users\Vincent\Coding\Yahoo News Bot\Yahoo News Bot\bin\Debug\Tweetinvi.Factories.dll
+C:\Users\Vincent\Coding\Yahoo News Bot\Yahoo News Bot\bin\Debug\Tweetinvi.Logic.dll
+C:\Users\Vincent\Coding\Yahoo News Bot\Yahoo News Bot\bin\Debug\Tweetinvi.Security.dll
+C:\Users\Vincent\Coding\Yahoo News Bot\Yahoo News Bot\bin\Debug\Tweetinvi.Streams.dll
+C:\Users\Vincent\Coding\Yahoo News Bot\Yahoo News Bot\bin\Debug\Tweetinvi.WebLogic.dll
+C:\Users\Vincent\Coding\Yahoo News Bot\Yahoo News Bot\obj\Debug\Yahoo News Bot.csprojResolveAssemblyReference.cache
+C:\Users\Vincent\Coding\Yahoo News Bot\Yahoo News Bot\obj\Debug\Yahoo News Bot.exe
+C:\Users\Vincent\Coding\Yahoo News Bot\Yahoo News Bot\obj\Debug\Yahoo News Bot.pdb

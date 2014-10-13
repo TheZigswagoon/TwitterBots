@@ -1,0 +1,26 @@
+C:\Users\vincent\Desktop\Anaconda Every Word Console\Anaconda Every Word Console\bin\Debug\Anaconda Every Word Console.exe.config
+C:\Users\vincent\Desktop\Anaconda Every Word Console\Anaconda Every Word Console\bin\Debug\Anaconda Every Word Console.exe
+C:\Users\vincent\Desktop\Anaconda Every Word Console\Anaconda Every Word Console\bin\Debug\Anaconda Every Word Console.pdb
+C:\Users\vincent\Desktop\Anaconda Every Word Console\Anaconda Every Word Console\bin\Debug\Autofac.dll
+C:\Users\vincent\Desktop\Anaconda Every Word Console\Anaconda Every Word Console\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\vincent\Desktop\Anaconda Every Word Console\Anaconda Every Word Console\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\vincent\Desktop\Anaconda Every Word Console\Anaconda Every Word Console\bin\Debug\Newtonsoft.Json.dll
+C:\Users\vincent\Desktop\Anaconda Every Word Console\Anaconda Every Word Console\bin\Debug\PCLWebUtility.dll
+C:\Users\vincent\Desktop\Anaconda Every Word Console\Anaconda Every Word Console\bin\Debug\Tweetinvi.Controllers.dll
+C:\Users\vincent\Desktop\Anaconda Every Word Console\Anaconda Every Word Console\bin\Debug\Tweetinvi.Core.dll
+C:\Users\vincent\Desktop\Anaconda Every Word Console\Anaconda Every Word Console\bin\Debug\Tweetinvi.Credentials.dll
+C:\Users\vincent\Desktop\Anaconda Every Word Console\Anaconda Every Word Console\bin\Debug\Tweetinvi.dll
+C:\Users\vincent\Desktop\Anaconda Every Word Console\Anaconda Every Word Console\bin\Debug\Tweetinvi.Factories.dll
+C:\Users\vincent\Desktop\Anaconda Every Word Console\Anaconda Every Word Console\bin\Debug\Tweetinvi.Logic.dll
+C:\Users\vincent\Desktop\Anaconda Every Word Console\Anaconda Every Word Console\bin\Debug\Tweetinvi.Security.dll
+C:\Users\vincent\Desktop\Anaconda Every Word Console\Anaconda Every Word Console\bin\Debug\Tweetinvi.Streams.dll
+C:\Users\vincent\Desktop\Anaconda Every Word Console\Anaconda Every Word Console\bin\Debug\Tweetinvi.WebLogic.dll
+C:\Users\vincent\Desktop\Anaconda Every Word Console\Anaconda Every Word Console\obj\Debug\Anaconda Every Word Console.exe
+C:\Users\vincent\Desktop\Anaconda Every Word Console\Anaconda Every Word Console\obj\Debug\Anaconda Every Word Console.pdb
+C:\Users\vincent\Desktop\Anaconda Every Word Console\Anaconda Every Word Console\obj\Debug\Anaconda Every Word Console.csprojResolveAssemblyReference.cache
+I:\Anaconda Every Word Console\Anaconda Every Word Console\bin\Debug\Anaconda Every Word Console.exe.config
+I:\Anaconda Every Word Console\Anaconda Every Word Console\obj\Debug\Anaconda Every Word Console.exe
+I:\Anaconda Every Word Console\Anaconda Every Word Console\obj\Debug\Anaconda Every Word Console.pdb
+I:\Anaconda Every Word Console\Anaconda Every Word Console\bin\Debug\Anaconda Every Word Console.exe
+I:\Anaconda Every Word Console\Anaconda Every Word Console\bin\Debug\Anaconda Every Word Console.pdb
+I:\Anaconda Every Word Console\Anaconda Every Word Console\obj\Debug\Anaconda Every Word Console.csprojResolveAssemblyReference.cache

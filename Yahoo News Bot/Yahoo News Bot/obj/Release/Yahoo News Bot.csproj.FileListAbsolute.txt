@@ -1,0 +1,19 @@
+C:\Users\Vincent\Coding\Yahoo News Bot\Yahoo News Bot\bin\Release\Yahoo News Bot.exe.config
+C:\Users\Vincent\Coding\Yahoo News Bot\Yahoo News Bot\bin\Release\Yahoo News Bot.exe
+C:\Users\Vincent\Coding\Yahoo News Bot\Yahoo News Bot\bin\Release\Yahoo News Bot.pdb
+C:\Users\Vincent\Coding\Yahoo News Bot\Yahoo News Bot\bin\Release\Autofac.dll
+C:\Users\Vincent\Coding\Yahoo News Bot\Yahoo News Bot\bin\Release\Microsoft.Threading.Tasks.dll
+C:\Users\Vincent\Coding\Yahoo News Bot\Yahoo News Bot\bin\Release\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Vincent\Coding\Yahoo News Bot\Yahoo News Bot\bin\Release\Newtonsoft.Json.dll
+C:\Users\Vincent\Coding\Yahoo News Bot\Yahoo News Bot\bin\Release\PCLWebUtility.dll
+C:\Users\Vincent\Coding\Yahoo News Bot\Yahoo News Bot\bin\Release\Tweetinvi.Controllers.dll
+C:\Users\Vincent\Coding\Yahoo News Bot\Yahoo News Bot\bin\Release\Tweetinvi.Core.dll
+C:\Users\Vincent\Coding\Yahoo News Bot\Yahoo News Bot\bin\Release\Tweetinvi.Credentials.dll
+C:\Users\Vincent\Coding\Yahoo News Bot\Yahoo News Bot\bin\Release\Tweetinvi.dll
+C:\Users\Vincent\Coding\Yahoo News Bot\Yahoo News Bot\bin\Release\Tweetinvi.Factories.dll
+C:\Users\Vincent\Coding\Yahoo News Bot\Yahoo News Bot\bin\Release\Tweetinvi.Logic.dll
+C:\Users\Vincent\Coding\Yahoo News Bot\Yahoo News Bot\bin\Release\Tweetinvi.Security.dll
+C:\Users\Vincent\Coding\Yahoo News Bot\Yahoo News Bot\bin\Release\Tweetinvi.Streams.dll
+C:\Users\Vincent\Coding\Yahoo News Bot\Yahoo News Bot\bin\Release\Tweetinvi.WebLogic.dll
+C:\Users\Vincent\Coding\Yahoo News Bot\Yahoo News Bot\obj\Release\Yahoo News Bot.exe
+C:\Users\Vincent\Coding\Yahoo News Bot\Yahoo News Bot\obj\Release\Yahoo News Bot.pdb
